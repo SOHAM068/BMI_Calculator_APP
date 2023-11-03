@@ -60,7 +60,7 @@ const App = () => {
           />
         </View>
         {/* <View style={Styles.ButtonStyle}>
-          <Button title='Calculate BMI' onPress={CalculateBMI}/>
+          <Button title='Calculate BMI' onPress={CalculateBMI} -->/>
         </View> */}
         <TouchableOpacity
           style={Styles.TouchableOpacityButton}
